@@ -14,7 +14,7 @@
     {
         "username": "usuario2",
         "password": "contraseña2",
-        "planActivo": true,
+        "planActivo": false,
         "tipoPlan": 1
     }
 ]
